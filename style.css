@@ -1,1 +1,12 @@
 em{color:green;}
+
+th{
+  color:white;
+  background:orange;
+  }
+
+th,td{
+  border:1px solid blck;
+}
+
+table[border-collapse:collapse;}
